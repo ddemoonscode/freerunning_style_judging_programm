@@ -1,4 +1,0 @@
-Samuel,407
-Tobi,398
-Dario,370
-Tom,403
